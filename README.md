@@ -1,4 +1,4 @@
-ttt# my-first-project-demo
+# my-first-project-demo
 This is my first git repository
 <br>
 Author-Dheeraj jangid
